@@ -1,0 +1,7 @@
+
+.env
+*.mp4
+*.csv
+*.pkl
+*.odp
+.ipynb_checkpoints/

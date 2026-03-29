@@ -1,0 +1,4 @@
+project_id = "migsczdimisdedhcanvb"
+
+[functions.credit-chat]
+verify_jwt = false
